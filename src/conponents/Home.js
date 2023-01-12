@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import Typical from "react-typical";
 
 const Home = () => {
   const [count, setCount] = useState(1);
@@ -51,23 +50,7 @@ const Home = () => {
         <div className="text">
           <span>
             {" "}
-            <h1>
-              {" "}
-              {/* <Typical
-                loop={Infinity}
-                steps={[
-                  "Ethusiastic Dev",
-                  3000,
-                  "React Developer",
-                  3000,
-                  "MERN Stack Developer",
-                  3000,
-                  "React Developer",
-                  3000,
-                ]}
-                wrapper="p"
-              /> */}
-            </h1>
+            <h1> </h1>
           </span>
         </div>
         {/* <div className="home-btn"> */}
