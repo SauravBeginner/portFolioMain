@@ -1,7 +1,14 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import Typical from "react-typical";
 
 const Home = () => {
+  const [count, setCount] = useState(1);
+  useEffect(() => {
+    // document.title = `You clicked ${count} times`;
+    console.log("Count: " + count);
+    setCount(1);
+  }, [count]);
+
   return (
     <div className="home" id="home">
       {/* <div className="blur"></div>
@@ -46,7 +53,7 @@ const Home = () => {
             {" "}
             <h1>
               {" "}
-              <Typical
+              {/* <Typical
                 loop={Infinity}
                 steps={[
                   "Ethusiastic Dev",
@@ -59,7 +66,7 @@ const Home = () => {
                   3000,
                 ]}
                 wrapper="p"
-              />
+              /> */}
             </h1>
           </span>
         </div>
