@@ -12,18 +12,22 @@ const ContactUs = () => {
       <div className="contactme">
         <div className="c-left">
           <div className="email">
-            <i class="fa-solid fa-envelope"></i>
+            <i className="fa-solid fa-envelope"></i>
             <p>Email</p>
             <p>sauravnaukri96@gmail.com</p>
-            <a href="mailto: pitamdas462@gmail.com" target="_blank">
+            <a
+              href="mailto: sauravnaukri96@gmail.com"
+              target="_blank"
+              rel="noreferrer"
+            >
               Send a Massages
             </a>
           </div>
           <div className="whatsapp">
-            <i class="fa-brands fa-whatsapp"></i>
+            <i className="fa-brands fa-whatsapp"></i>
             <p>Whatsapp</p>
             <p>+917003789409</p>
-            <a href="https://wa.me/918335899529?text=Hi%2C%20How%20can%20i%20help%20you">
+            <a href="https://wa.me/7003789409?text=Hi%2C%20How%20are%20%20you?">
               Send a massage
             </a>
           </div>

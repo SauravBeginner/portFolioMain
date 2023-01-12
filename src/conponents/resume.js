@@ -23,7 +23,7 @@ const Resume = () => {
         <div className="u-line"></div>
       </div>
       <div className="main-resume">
-        <div class="left">
+        <div className="left">
           <a href="#first" className="active-link">
             <b></b>
             <b></b>
@@ -50,7 +50,8 @@ const Resume = () => {
             <div className="edu">
               <div className="edu-name">
                 <p>
-                  <i class="fa-solid fa-circle-dot"></i> MERN Stack Developer
+                  <i className="fa-solid fa-circle-dot"></i> MERN Stack
+                  Developer
                 </p>
                 <p className="time">2022-2023</p>
               </div>
@@ -59,7 +60,7 @@ const Resume = () => {
             <div className="edu">
               <div className="edu-name">
                 <p>
-                  <i class="fa-solid fa-circle-dot"></i> Web Development
+                  <i className="fa-solid fa-circle-dot"></i> Web Development
                 </p>
                 <p className="time">2022-2022</p>
               </div>
@@ -68,7 +69,7 @@ const Resume = () => {
             <div className="edu">
               <div className="edu-name">
                 <p>
-                  <i class="fa-solid fa-circle-dot"></i> B.Tech
+                  <i className="fa-solid fa-circle-dot"></i> B.Tech
                 </p>
                 <p className="time">2015-2019</p>
               </div>
@@ -79,7 +80,7 @@ const Resume = () => {
             <div className="edu">
               <div className="edu-name">
                 <p>
-                  <i class="fa-solid fa-circle-dot"></i> Higher Secondary
+                  <i className="fa-solid fa-circle-dot"></i> Higher Secondary
                 </p>
                 <p className="time">2017-2019</p>
               </div>
@@ -88,7 +89,7 @@ const Resume = () => {
             <div className="edu">
               <div className="edu-name">
                 <p>
-                  <i class="fa-solid fa-circle-dot"></i> Secondary
+                  <i className="fa-solid fa-circle-dot"></i> Secondary
                 </p>
                 <p className="time">2017</p>
               </div>
@@ -98,7 +99,7 @@ const Resume = () => {
           <div id="second">
             <div className="skill">
               <p>
-                <i class="fa-solid fa-circle-dot"></i> React
+                <i className="fa-solid fa-circle-dot"></i> React
               </p>
               <div className="p-bar">
                 <div style={{ width: "90%" }} className="react"></div>
@@ -106,7 +107,7 @@ const Resume = () => {
             </div>
             <div className="skill">
               <p>
-                <i class="fa-solid fa-circle-dot"></i> Javascript
+                <i className="fa-solid fa-circle-dot"></i> Javascript
               </p>
               <div className="p-bar">
                 <div style={{ width: "90%" }}></div>
@@ -114,7 +115,7 @@ const Resume = () => {
             </div>
             <div className="skill">
               <p>
-                <i class="fa-solid fa-circle-dot"></i> Css
+                <i className="fa-solid fa-circle-dot"></i> Css
               </p>
               <div className="p-bar">
                 <div style={{ width: "80%" }}></div>
@@ -122,7 +123,7 @@ const Resume = () => {
             </div>
             <div className="skill">
               <p>
-                <i class="fa-solid fa-circle-dot"></i> Html
+                <i className="fa-solid fa-circle-dot"></i> Html
               </p>
               <div className="p-bar">
                 <div style={{ width: "90%" }}></div>
@@ -130,7 +131,7 @@ const Resume = () => {
             </div>
             <div className="skill">
               <p>
-                <i class="fa-solid fa-circle-dot"></i> Node Js
+                <i className="fa-solid fa-circle-dot"></i> Node Js
               </p>
               <div className="p-bar">
                 <div style={{ width: "90%" }}></div>
@@ -141,7 +142,7 @@ const Resume = () => {
             <div className="edu">
               <div className="edu-name">
                 <p>
-                  <i class="fa-solid fa-circle-dot"></i> React Portfollio
+                  <i className="fa-solid fa-circle-dot"></i> React Portfollio
                   Website
                 </p>
                 <p className="time">2022</p>
@@ -151,8 +152,8 @@ const Resume = () => {
             <div className="edu">
               <div className="edu-name">
                 <p>
-                  <i class="fa-solid fa-circle-dot"></i> E-commerce website with
-                  cart feature
+                  <i className="fa-solid fa-circle-dot"></i> E-commerce website
+                  with cart feature
                 </p>
                 <p className="time">2022</p>
               </div>
@@ -163,7 +164,8 @@ const Resume = () => {
             <div className="edu">
               <div className="edu-name">
                 <p>
-                  <i class="fa-solid fa-circle-dot"></i> weather app using Api
+                  <i className="fa-solid fa-circle-dot"></i> weather app using
+                  Api
                 </p>
                 <p className="time">2022</p>
               </div>
@@ -172,8 +174,8 @@ const Resume = () => {
             <div className="edu">
               <div className="edu-name">
                 <p>
-                  <i class="fa-solid fa-circle-dot"></i> Food delivery website
-                  with React Router
+                  <i className="fa-solid fa-circle-dot"></i> Food delivery
+                  website with React Router
                 </p>
                 <p className="time">2022</p>
               </div>
@@ -184,7 +186,7 @@ const Resume = () => {
             <div className="edu">
               <div className="edu-name">
                 <p>
-                  <i class="fa-solid fa-circle-dot"></i>Software Engineer
+                  <i className="fa-solid fa-circle-dot"></i>Software Engineer
                 </p>
                 <p className="time">2021-2022</p>
               </div>
@@ -193,7 +195,7 @@ const Resume = () => {
             <div className="edu">
               <div className="edu-name">
                 <p>
-                  <i class="fa-solid fa-circle-dot"></i>Software Engineer
+                  <i className="fa-solid fa-circle-dot"></i>Software Engineer
                 </p>
                 <p className="time">2022-Present</p>
               </div>

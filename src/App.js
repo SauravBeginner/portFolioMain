@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Navbar from "./conponents/Navbar";
 import Home from "./conponents/Home";
@@ -23,7 +22,7 @@ function App() {
       <About />
       <Resume />
       <Project />
-      {/* <Testimonial/> */}
+      <Testimonial />
       <ContactUs />
       <Footer />
     </div>

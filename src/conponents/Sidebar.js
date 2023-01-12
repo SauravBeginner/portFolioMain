@@ -9,6 +9,7 @@ function Sidebar() {
         <a href="#resume">Resume</a>
         <a href="#project">Projects</a>
         <a href="#testimonial">Testimonial</a>
+        <a href="#contact">ContactMe</a>
       </div>
     </div>
   );

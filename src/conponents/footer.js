@@ -8,27 +8,27 @@ const Footer = () => {
         <ul>
           <li>
             <a href="https://github.com/code-pitam">
-              <i class="fa-brands fa-github"></i>
+              <i className="fa-brands fa-github"></i>
             </a>
           </li>
           <li>
             <a href="https://www.linkedin.com/in/pitam-das-18445622b/">
-              <i class="fa-brands fa-linkedin"></i>
+              <i className="fa-brands fa-linkedin"></i>
             </a>
           </li>
           <li>
             <a href="https://twitter.com/code_pitam">
-              <i class="fa-brands fa-twitter"></i>
+              <i className="fa-brands fa-twitter"></i>
             </a>
           </li>
           <li>
             <a href="https://www.instagram.com/das_pitam/">
-              <i class="fa-brands fa-instagram"></i>
+              <i className="fa-brands fa-instagram"></i>
             </a>
           </li>
           <li>
             <a href="https://www.facebook.com/pitam.das.3348/">
-              <i class="fa-brands fa-facebook"></i>
+              <i className="fa-brands fa-facebook"></i>
             </a>
           </li>
         </ul>
