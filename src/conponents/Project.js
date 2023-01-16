@@ -40,7 +40,7 @@ const Project = () => {
         </div>
         <div className="project-box">
           <img src="images\20221225_100706_0000.png" alt="" srcset="" />
-          <p>Responsive Landing Page</p>
+          <p>Social Media React & Redux APP with Node</p>
           <div className="p-button">
             <a
               className="github"
