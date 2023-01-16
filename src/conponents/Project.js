@@ -38,6 +38,21 @@ const Project = () => {
             </a>
           </div>
         </div>
+        <div className="project-box">
+          <img src="images\20221225_100706_0000.png" alt="" srcset="" />
+          <p>Responsive Landing Page</p>
+          <div className="p-button">
+            <a
+              className="github"
+              href="https://github.com/SauravBeginner/instaCLient"
+            >
+              Github
+            </a>
+            <a className="live" href="https://insta-client.netlify.app/">
+              Live Demo
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   );
