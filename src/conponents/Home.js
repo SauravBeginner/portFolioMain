@@ -10,28 +10,18 @@ const Home = () => {
         <div className="social">
           <ul>
             <li>
-              <a href="https://github.com/code-pitam">
+              <a href="https://github.com/SauravBeginner">
                 <i className="fa-brands fa-github"></i>
               </a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/in/pitam-das-18445622b/">
+              <a href="https://www.linkedin.com/in/saurav-kundu-0b06211ba/">
                 <i className="fa-brands fa-linkedin"></i>
               </a>
             </li>
             <li>
-              <a href="https://twitter.com/code_pitam">
-                <i className="fa-brands fa-twitter"></i>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.instagram.com/das_pitam/">
-                <i className="fa-brands fa-instagram"></i>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.facebook.com/pitam.das.3348/">
-                <i className="fa-brands fa-facebook"></i>
+              <a href="https://wa.me/7003789409?">
+                <i className="fa-brands fa-whatsapp"></i>
               </a>
             </li>
           </ul>
@@ -45,9 +35,9 @@ const Home = () => {
           <span>
             <h1>
               <ReactTypical
-                steps={["Hello", 100, "React Typical", 100]}
-                loop={3}
-                wrapper="p"
+                steps={["React Developer", 500, "Full Stack Developer", 500]}
+                loop={Infinity}
+                wrapper="h5"
               />
             </h1>
           </span>

@@ -3,9 +3,7 @@ import React from "react";
 const Navbar = ({ classactive, setclassactive }) => {
   return (
     <div className="navbar">
-      <h1 className="logo">
-        PD<span>.</span>
-      </h1>
+      <h1 className="logo">PortFolio</h1>
       <div className="nav">
         <a href="#home">Home</a>
         <a href="#about">About</a>

@@ -26,7 +26,7 @@ export const About = () => {
                 <span>
                   <i className="fa-sharp fa-solid fa-circle-dot"></i>
                 </span>
-                Front End Developer
+                Full Stack End Developer
               </li>
               <li>
                 <span>

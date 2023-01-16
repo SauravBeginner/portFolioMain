@@ -60,15 +60,6 @@ const Resume = () => {
             <div className="edu">
               <div className="edu-name">
                 <p>
-                  <i className="fa-solid fa-circle-dot"></i> Web Development
-                </p>
-                <p className="time">2022-2022</p>
-              </div>
-              <p className="type">Internshala Trainings</p>
-            </div>
-            <div className="edu">
-              <div className="edu-name">
-                <p>
                   <i className="fa-solid fa-circle-dot"></i> B.Tech
                 </p>
                 <p className="time">2015-2019</p>
@@ -82,18 +73,18 @@ const Resume = () => {
                 <p>
                   <i className="fa-solid fa-circle-dot"></i> Higher Secondary
                 </p>
-                <p className="time">2017-2019</p>
+                <p className="time">2014</p>
               </div>
-              <p className="type">WBCHSE</p>
+              <p className="type">WBCHSE - Hooghly Branch Govt High School</p>
             </div>
             <div className="edu">
               <div className="edu-name">
                 <p>
                   <i className="fa-solid fa-circle-dot"></i> Secondary
                 </p>
-                <p className="time">2017</p>
+                <p className="time">2012</p>
               </div>
-              <p className="type">WBBSE</p>
+              <p className="type"> WBBSE - Hooghly Branch Govt High School</p>
             </div>
           </div>
           <div id="second">
