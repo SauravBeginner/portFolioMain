@@ -10,7 +10,7 @@ const Project = () => {
       <div className="m-project">
         <div className="project-box">
           <img src="images\20221225_125210_0000.png" alt="" />
-          <p>Social Media React APP with Node</p>
+          <p>Ecommerce React APP with Node</p>
           <div className="p-button">
             <a
               className="github"
@@ -18,7 +18,7 @@ const Project = () => {
             >
               Github
             </a>
-            <a className="live" href="https://insta-client.netlify.app/">
+            <a className="live" href="https://shopdunia.netlify.app/">
               Live Demo
             </a>
           </div>
@@ -39,7 +39,7 @@ const Project = () => {
           </div>
         </div>
         <div className="project-box">
-          <img src="images\20221225_100706_0000.png" alt="" srcset="" />
+          <img src="images\insta.png" alt="" srcset="" />
           <p>Social Media React & Redux APP with Node</p>
           <div className="p-button">
             <a
