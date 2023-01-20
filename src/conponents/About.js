@@ -49,7 +49,7 @@ export const About = () => {
             </ul>
           </div>
           <div className="about-btn">
-            <a className="resume" href="images\Saurav Resume.pdf" download>
+            <a className="resume" href="images\SauravResume.pdf" download>
               Resume
             </a>
             <a href="#contact" className="hire-me">

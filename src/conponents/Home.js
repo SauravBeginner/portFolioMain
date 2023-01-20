@@ -43,7 +43,7 @@ const Home = () => {
           </span>
         </div>
         {/* <div className="home-btn"> */}
-        <a className="resume" href="images\Saurav Resume.pdf" download>
+        <a className="resume" href="images\SauravResume.pdf" download>
           Resume
         </a>
         {/* </div> */}
